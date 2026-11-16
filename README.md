@@ -135,4 +135,4 @@ Built with [`@cloudflare/workers-oauth-provider`](https://github.com/cloudflare/
 
 MIT — see [LICENSE](LICENSE). Use of YouTube data is subject to the [YouTube API Services Terms](https://developers.google.com/youtube/terms/api-services-terms-of-service), which each deployer accepts for their own Google Cloud project.
 
-Deploying Path to Spirituality MCP connector
+Cloudflare Workers Git integration test - Path to Spirituality
